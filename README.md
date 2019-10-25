@@ -1,4 +1,4 @@
-# TwoDayShipping
+# Gotta GAN them all
 DAAM Hackathon
 
 Taking Pokemon Sprites

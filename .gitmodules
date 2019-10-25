@@ -1,3 +1,6 @@
 [submodule "midi-lstm-gan"]
 	path = midi-lstm-gan
 	url = git@github.com:corynguyen19/midi-lstm-gan.git
+[submodule "generative-adversarial-networks"]
+	path = generative-adversarial-networks
+	url = git@github.com:jonbruner/generative-adversarial-networks.git
