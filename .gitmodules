@@ -1,0 +1,3 @@
+[submodule "midi-lstm-gan"]
+	path = midi-lstm-gan
+	url = git@github.com:corynguyen19/midi-lstm-gan.git
